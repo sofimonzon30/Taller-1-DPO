@@ -1,0 +1,13 @@
+tipo:diesel:10000:1000.0
+tipo:extra:11000:20350.0
+tipo:corriente:11000:1000.0
+tipo:plus:12000:2000.0
+surtidor:liliana:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:liliana:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:santiago:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:santiago:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+empleado:laura:0
+empleado:santiago:0
+empleado:cristian:0
+empleado:sofia:0
+empleado:liliana:0
